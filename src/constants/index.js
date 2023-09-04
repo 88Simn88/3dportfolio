@@ -28,6 +28,7 @@ import {
     weather,
     galles,
     cardgame,
+    pianoReact,
   } from "../assets";
   
   export const navLinks = [
@@ -341,6 +342,27 @@ import {
       ],
       image: cardgame,
       source_code_link: "https://cardgame-sim.netlify.app",
+    },
+    {
+      name: "Little Piano",
+      description:
+      "Web-app where you can play notes in a little piano, change oscillators and volume . ",
+      tags: [
+        {
+          name: "javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "react",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: pianoReact,
+      source_code_link: "https://piano-react-sim.netlify.app/",
     },
   ];
   

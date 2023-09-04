@@ -34,6 +34,7 @@ import petsblog from "./petsblog.png"
 import weather from "./weather.png"
 import galles from "./galles.png"
 import cardgame from "./cardgame.png"
+import pianoReact from "./pianor.png"
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   weather,
   galles,
   cardgame,
+  pianoReact,
 };
